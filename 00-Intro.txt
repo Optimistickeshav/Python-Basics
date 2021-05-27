@@ -1,0 +1,154 @@
+To use python you need a Code Editor
+
+ - PyCharm (heavy...)
+ - Visual Code Studio (intermediate level)
+ - notepad++ 
+ - Spyder (Naive)
+
+https://www.python.org/downloads/
+
+https://www.spyder-ide.org/
+
+-----------------------------------
+
+After Python Basic
+
+- you are capable to learn or work on any pyhton library
+
+AI (Machine Learning)
+  - Scikit-learn
+  - Wx Python
+  - Keras
+  - Open CV (image recog./ TO identfy gender/age/ires)
+  - Mediapipe (For Recognizing Body movement)
+
+GUI (Graphical User  Interface)
+  - Tkinter
+  - jython
+  - wx python
+ 
+Game Dev.
+  - Pygame,
+
+Software Testing
+To operate BIGDATA
+
+  - Pydoop
+  - PYSpark
+
+Web Development
+
+  - Django
+  - Flask
+
+
+Data Science
+  - Numpy
+  - Pandas(Google uses this)
+  - Scaborn
+
+----------------------------
+
+Google, IBM, FB, Nasa, insta, Youtube, Dropbox...
+
+_________________________________________________________
+
+To run a program we have to press F5 Key, it will read whole file and provide output...
+
+To run a specific line in python, press F9, it will read only a single line and provide output...
+
+_________________________________________________________
+
+Programming Lang.
+
+C, C++, C#, java, js(front-end programming lang), php, ruby, cobol, asp etc etc...
+
+C (Book = Let us C - by Yashwant Kanetker) is called mother of programming lang, (Object Oriented Programming was missing),
+
+C++ is an updated version of C.. (OOP), (python is built in C++)
+
+C# is an updated version of C++ (and it have some more pre-built library),
+
+C >> respberry pi << microchip
+
+__________________________________________________________________
+
+Complier = Compiler converts our code into Computer's Lang(Binary Lang) (0 and 1) and it submit the code to pc get output according...
+It is used in every programming lang.
+F5 = Compiler is running whole program
+
+Interpreter = This is something new, used in new programming langs, it reads 1 line at time... (it is not available in c++ or any other comptiting lang)
+F9 to read a line
+____________________________________________________________________
+
+What makes python special
+
+ - interpreter
+ - easy syntax (it is a compulsary style of writing code)
+ - high demand
+ - easily available library
+ - support(solution of codings - stackoverflow) 
+
+etc
+
+Below is syntax of different programming languages
+Not 100% Correct
+
+if(x>9)
+printf("sdfasfasdf");
+
+if [x>9]
+echo 'adsfads'
+
+if (x>9):
+	print ('asdfasdf')
+else
+	print
+_______________________________________________________________
+
+'''
+This is a Multi line comment
+
+PRESS F5 to run whole program in Spyder...
+
+'''
+
+#This is a single line comment...
+
+_______________________________________________
+
+
+Mainly Variables are of 3 Types - 
+
+Int = Integers (infinity........-2, -1 , 0, 1, 2.......infinity) [Number]
+Float = 33.5 (Decimal Number)
+String = "Keshav" (Character set[All Alphabets, special sybols, number])
+
+______________________________________________________
+
+Rules for Naming Variable
+
+1 - Use alphabets Capital or small any...
+2 - Var name should start with alphabet or _(underscore)
+3 - Don't use number for naming var, it will not work, or you can use like this var1, ram1, ram23kasd (12ram this will not work)
+4 - Don't use special symbols for naming var.
+	
+
+
+______________________________________________
+
+Python is case sensitive, that's why
+a = 'Avi'
+and
+A = 'Abhishek' 
+
+are different Values...
+
+_______________________________________
+To concatenate multiple value in print command
+
+print (A, 'is friend of', a)
+
+, = works as saperator....
+
+_________________________________________
